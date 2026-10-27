@@ -1,4 +1,4 @@
-# University Student Support Chatbot 
+# Smart University Portal with a Privacy-Aware Retrieval-Augmented Generation (RAG) AI Assistant
 
 A university platform built around one shared PostgreSQL database: a public
 website, a student portal, and an admin dashboard, plus an AI Campus
