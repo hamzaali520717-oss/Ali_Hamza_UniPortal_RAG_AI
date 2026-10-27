@@ -1,4 +1,4 @@
-# 🏛️ University Portal System
+# 🏛️ Unversity Student Support Chatbot
 
 A comprehensive, scalable, and modular Django-based academic and administrative portal designed to manage modern university operations. This system integrates distinct modular architectures for admissions, academics, finance, core platform utilities, and an integrated smart AI assistant ecosystem.
 
